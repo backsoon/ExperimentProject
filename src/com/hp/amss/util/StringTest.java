@@ -20,8 +20,8 @@ public class StringTest {
 //			System.out.println(System.getProperty("java.io.tmpdir"));
 			
 			
-			Long ltest = new Long(9999);
-			System.out.println(ltest.toString());
+//			Long ltest = new Long(9999);
+//			System.out.println(ltest.toString());
 		} catch (Exception e) {
 			System.out.print(e);
 		}
