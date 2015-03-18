@@ -11,9 +11,9 @@ public class StringTest {
 			System.out.println("あ1いうえお".substring(0, 15));
 			
 			//System.out.println(number2Letter(53));
-			String ss = "012345&DESCRIPTION=";
-			String nextUrl1 = ss.substring(0, ss.indexOf("&DESCRIPTION="));
-            String nextUrl2 = ss.substring(ss.indexOf("&DESCRIPTION="));
+			//String ss = "012345&DESCRIPTION=";
+			//String nextUrl1 = ss.substring(0, ss.indexOf("&DESCRIPTION="));
+            //String nextUrl2 = ss.substring(ss.indexOf("&DESCRIPTION="));
 
 			System.out.println(nextUrl1);
 			System.out.println(nextUrl2);
