@@ -22,6 +22,8 @@ public class StringTest {
 			
 //			Long ltest = new Long(9999);
 //			System.out.println(ltest.toString());
+			
+			//eclipse 5
 		} catch (Exception e) {
 			System.out.print(e);
 		}
