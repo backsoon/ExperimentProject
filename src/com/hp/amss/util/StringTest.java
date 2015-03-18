@@ -7,8 +7,8 @@ public class StringTest {
 	 */
 	public static void main(String[] args) {
 		try {
-//			System.out.println("あいうえお1".length());
-//			System.out.println("あ1いうえお".substring(0, 15));
+			System.out.println("あいうえお1".length());
+			System.out.println("あ1いうえお".substring(0, 15));
 			
 			//System.out.println(number2Letter(53));
 			//String ss = "012345&DESCRIPTION=";
