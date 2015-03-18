@@ -24,6 +24,7 @@ public class StringTest {
 //			System.out.println(ltest.toString());
 			
 			//eclipse 5
+			//eclipse 6
 		} catch (Exception e) {
 			System.out.print(e);
 		}
